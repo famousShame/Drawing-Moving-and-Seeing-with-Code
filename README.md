@@ -1,6 +1,6 @@
 # Drawing-Moving-and-Seeing-with-Code
 
-Documenting my work in **Drawing, Moving and Seeing with Code** with lee2sman
+Documenting my work in **Drawing, Moving and Seeing with Code** at Purchase College
 
 [Devlog 1](https://github.com/famousShame/Drawing-Moving-and-Seeing-with-Code/blob/main/2021-02-04-Devlog-1.md "Devlog 1")
 
