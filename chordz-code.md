@@ -1,6 +1,7 @@
 ## Chordz, a p5.js script
 
-`let polySynth;
+```
+let polySynth;
 let reverb;
 let drums;
 
@@ -143,5 +144,4 @@ function distort(){
   drums.connect(distortion);
   drums.setVolume(0.1);
 }
-
-  `
+```
