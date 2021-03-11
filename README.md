@@ -6,3 +6,6 @@ Documenting my work in **Drawing, Moving and Seeing with Code** at Purchase Coll
 
 
 [Devlog 2](https://famousshame.github.io/Drawing-Moving-and-Seeing-with-Code/2021-02-18-Devlog2)
+
+
+[Devlog 3](https://famousshame.github.io/Drawing-Moving-and-Seeing-with-Code/2021-03-11-Devlog-3)
