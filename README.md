@@ -9,3 +9,7 @@ Documenting my work in **Drawing, Moving and Seeing with Code** at Purchase Coll
 
 
 [Devlog 3](https://famousshame.github.io/Drawing-Moving-and-Seeing-with-Code/2021-03-11-Devlog-3)
+
+
+[Devlog: Hydra](https://famousshame.github.io/Drawing-Moving-and-Seeing-with-Code/2021-04-01-hydra)
+
