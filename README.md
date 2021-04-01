@@ -1,4 +1,4 @@
-# Drawing-Moving-and-Seeing-with-Code
+# Drawing Moving and Seeing with Code
 
 Documenting my work in **Drawing, Moving and Seeing with Code** at Purchase College
 
