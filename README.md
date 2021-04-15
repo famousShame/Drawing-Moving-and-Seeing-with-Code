@@ -13,3 +13,5 @@ Documenting my work in **Drawing, Moving and Seeing with Code** at Purchase Coll
 
 [Devlog: Hydra](https://famousshame.github.io/Drawing-Moving-and-Seeing-with-Code/2021-04-01-hydra)
 
+[Devlog: Squirrel Game](https://famousshame.github.io/Drawing-Moving-and-Seeing-with-Code/2021-04-15-devlog-squirrel-game)
+
