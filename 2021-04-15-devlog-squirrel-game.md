@@ -4,9 +4,8 @@ For the squirrel eat squirrel game, we decided to use pixel art, and give it an 
 
 
 
-[Squirrel Game](https://editor.p5js.org/seamus.tynan/full/jcuIykaFW)
+[Squirrel Game](https://editor.p5js.org/seamus.tynan/sketches/jcuIykaFW)
 
 
 
 ![Screen Shot 2021-04-15 at 2.31.44 PM.png]({{site.baseurl}}/Screen Shot 2021-04-15 at 2.31.44 PM.png)
-
