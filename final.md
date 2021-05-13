@@ -1,3 +1,3 @@
 ## Final Project
 
-<iframe src="https://editor.p5js.org/seamus.tynan/embed/5xqWwOaB6"></iframe>
+<iframe width="400" height="400" src="https://editor.p5js.org/seamus.tynan/embed/5xqWwOaB6"></iframe>
