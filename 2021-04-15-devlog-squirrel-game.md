@@ -4,6 +4,10 @@ For the squirrel eat squirrel game, we decided to use pixel art, and give it an 
 
 
 
+<iframe src="https://editor.p5js.org/seamus.tynan/embed/jcuIykaFW"></iframe>
+
+
+
 [Squirrel Game](https://editor.p5js.org/seamus.tynan/sketches/jcuIykaFW)
 
 
