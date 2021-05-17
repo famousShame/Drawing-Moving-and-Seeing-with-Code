@@ -11,6 +11,9 @@ Documenting my work in **Drawing, Moving and Seeing with Code** at Purchase Coll
 [Devlog 3](https://famousshame.github.io/Drawing-Moving-and-Seeing-with-Code/2021-03-11-Devlog-3)
 
 
+[Devlog: TidalCycles](https://famousshame.github.io/Drawing-Moving-and-Seeing-with-Code/TidalCycles)
+
+
 [Devlog: Hydra](https://famousshame.github.io/Drawing-Moving-and-Seeing-with-Code/2021-04-01-hydra)
 
 [Devlog: Squirrel Game](https://famousshame.github.io/Drawing-Moving-and-Seeing-with-Code/2021-04-15-devlog-squirrel-game)
